@@ -1,6 +1,6 @@
 pragma solidity ^0.4.17;
 
-contract Lottery{
+contract tictactoe{
     //address public Manager;
     address[] public Players;
 
